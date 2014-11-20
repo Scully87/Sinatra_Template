@@ -25,6 +25,10 @@ Open the Directory:
 ```shell
 $ cd Sinatra-Template
 ```
+Install the files:
+```shell
+$ bundle install
+```
 
 Open from terminal:
 ```shell
