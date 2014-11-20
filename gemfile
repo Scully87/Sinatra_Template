@@ -1,7 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'launchy'
 gem 'rack'
-gem 'shotgun'
 gem 'sinatra'
 gem 'sinatra-partial'
+
+group :development, :test do 
+  gem 'launchy'
+  gem 'rspec'
+  gem 'shotgun'
+end
