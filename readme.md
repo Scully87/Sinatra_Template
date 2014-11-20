@@ -12,3 +12,26 @@ Simple Website Template
   - JQuery
   - CSS Reset
   - CSS Normalize
+
+How to Use:
+------------
+
+Clone the Repository:
+```shell
+$ git clone git@github.com:Scully87/Sinatra-Template.git
+```
+
+Open the Directory:
+```shell
+$ cd Sinatra-Template
+```
+
+Open from terminal:
+```shell
+$ rackup
+```
+
+Url for Browser:
+```
+  http://localhost:9292/
+```
