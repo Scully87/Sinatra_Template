@@ -12,6 +12,7 @@ Simple Website Template
   - JQuery
   - CSS Reset
   - CSS Normalize
+  - RSpec for Testing
 
 How to Use:
 ------------
