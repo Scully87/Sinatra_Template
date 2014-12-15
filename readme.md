@@ -3,14 +3,13 @@ Simple Website Template
 
 ####A simple file structure created to produce a quick sinatra application for site hosting
 
-#####Technologies Used:
+#####Template includes:
 
-  - Sinatra
-  - Sinatra-partial
-  - ERB
-  - HTML
-  - JQuery
-  - CSS Normalize
+	- Sinatra
+	- Partials
+	- ERB
+	- CSS/Normalize
+	- JQuery
 
 How to Use:
 ------------

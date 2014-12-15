@@ -1,13 +1,19 @@
-html,
 body {
-	padding: 0;
+	background: #222;
+	color: #EEE;
+	font: 1.5rem Arial, Verdana, Sans-Serif;
 	margin: 0;
-	background-color: black;
+	padding: 5%;
+	text-align: center;
+}
+              
+a {
+	margin: 10%;
+	font-size: 1rem;
+	font-weight: 700;
+	color: #EEE;
 }
 
-h1 {
-  display: none;
-  background-color: salmon;
-  color: white;
-  text-align: center;
+button {
+	color: black !important;
 }
