@@ -1,7 +1,7 @@
 Simple Website Template
 ========================
 
-####A simple file structure created to produce a quick sinatra application for site hosting
+####A simple file structure created to produce a quick sinatra application for site hosting. 
 
 #####Template includes:
 
