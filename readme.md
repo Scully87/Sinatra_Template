@@ -6,10 +6,11 @@ Simple Website Template
 #####Template includes:
 
 	- Sinatra
-	- Partials
 	- ERB
 	- CSS/Normalize
 	- JQuery
+
+This template is Heroku ready
 
 How to Use:
 ------------
