@@ -17,12 +17,12 @@ How to Use:
 
 Clone the Repository:
 ```shell
-$ git clone https://github.com/Scully87/Sinatra-Template.git
+$ git clone https://github.com/Scully87/Sinatra_Template.git
 ```
 
 Open the Directory:
 ```shell
-$ cd Sinatra-Template
+$ cd Sinatra_Template
 ```
 Install the files:
 ```shell
