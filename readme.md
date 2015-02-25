@@ -29,10 +29,8 @@ $ rackup
 
 
 #####Template includes:
-
 	- Sinatra
 	- ERB
 	- CSS/Normalize
 	- JQuery
-
-This template is also Heroku ready
+	- Template is Heroku ready
