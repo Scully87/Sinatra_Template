@@ -1,30 +1,23 @@
-Simple Website Template
-========================
+# SinatraTemplate
+=================================
 
-####A simple file structure created to produce a quick sinatra application for site hosting. 
+A gem which provides a Sinatra App Template with CSS and JQuery.
 
-How to Use:
-------------
-Install the Gem:
+## Installation
+
+Install the gem:
 ```shell
-$ gem install sinatra_template
+    $ gem install sinatra_template
 ```
-Run the Gem:
+
+## Usage
+
+Then in your command line run:
 ```shell
-$ Sinatra_Template "YOUR DIR NAME"
+    $ sinatra_template [NAME_OF_YOUR_REPO_HERE]
 ```
-Change Directory:
-```shell
-$ cd "YOUR DIR NAME"
-```
-Install the files:
-```shell
-$ bundle install
-```
-Open from terminal:
-```shell
-$ rackup
-```
+
+(Note: If you do not enter a name for your repo, the default name Sinatra_Template will be used)
 ---------------------
 
 
