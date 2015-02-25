@@ -5,7 +5,6 @@ Simple Website Template
 
 How to Use:
 ------------
-
 Install the Gem:
 ```shell
 $ gem install sinatra_template
@@ -26,6 +25,7 @@ Open from terminal:
 ```shell
 $ rackup
 ```
+---------------------
 
 
 #####Template includes:
