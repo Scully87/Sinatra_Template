@@ -1,7 +1,6 @@
 # SinatraTemplate
-=================================
 
-A gem which provides a Sinatra App Template with CSS and JQuery.
+A gem which provides a Sinatra App Template with CSS, JQuery and is also Heroku ready.
 
 ## Installation
 
@@ -18,12 +17,4 @@ Then in your command line run:
 ```
 
 (Note: If you do not enter a name for your repo, the default name Sinatra_Template will be used)
----------------------
 
-
-#####Template includes:
-	- Sinatra
-	- ERB
-	- CSS/Normalize
-	- JQuery
-	- Template is Heroku ready
