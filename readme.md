@@ -13,7 +13,7 @@ Install the gem:
 
 Then in your command line run:
 ```shell
-  $ sinatra_template [NAME_OF_YOUR_REPO_HERE]
+  $ sinatra_template [NAME OF YOUR REPO HERE]
 ```
 
 (Note: If you do not enter a name for your repo, the default name Sinatra_Template will be used)
